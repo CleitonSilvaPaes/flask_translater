@@ -11,3 +11,6 @@ Na opção de linguagem tem disponivel as seguintes tradução
 - Japonese
 - Russian
 - German
+
+Assim que feito a requisição da tradução na linguagem desejada
+![Resultado da tradução](imagens/result.png)
