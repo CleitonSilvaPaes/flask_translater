@@ -1,0 +1,11 @@
+# ignore pycache
+__pycache__
+
+# ignore cache vscode
+.vsc*/
+
+# ignore virtual env 
+venv/
+
+# ignore .env do usuario
+.env
